@@ -1,0 +1,45 @@
+#wrapper {margin-right: auto;
+		margin-left: auto;
+		width: 1200px;}
+		
+#logos {float: right;
+		padding: 100px 0px 0px 0px;}
+		
+#Pictures {display: block;
+		float: right;}
+		
+header {background-color: #ffa500;
+		border: 3px ridge white;
+		border-radius: 20px;
+		color: white;
+		margin-left: auto;
+		margin-right: auto;
+		width: 1200px;
+		padding: 0px 0px 0px 0px;}
+		
+nav {float: left;
+	width: 150px;
+	height: 500px;
+	border: 3px ridge white;
+	border-radius: 20px;
+	color: white;
+	padding: 0px 0px 0px 25px;
+	}
+		
+main {font-size: 1.30em;
+	padding: 20px 0px 0px 50px;
+	}
+
+body {background-color: #D9C562;}
+
+h1 {color: #591b0c;
+	font-size: 1.80em;
+	font-family: Impact;
+	}
+
+h2 {Font-size: 1.50em;
+	font-family: "Alatsi";}
+	
+ul {list-style-position: inside;}
+
+p {font-family: sans-serif;}
